@@ -1,0 +1,138 @@
+[ {
+  "id" : "asamir@4242.com",
+  "name" : "w",
+  "password" : "w",
+  "inbox" : {
+    "name" : "inbox",
+    "emails" : { }
+  },
+  "trash" : {
+    "name" : "trash",
+    "emails" : {
+      "d76fd7a7-0060-404e-9ff0-da5ac70f2463" : null
+    }
+  },
+  "draft" : {
+    "name" : "draft",
+    "emails" : {
+      "41eeeaa3-ff50-4040-b929-d4af820165f3" : {
+        "id" : "41eeeaa3-ff50-4040-b929-d4af820165f3",
+        "body" : {
+          "text" : "",
+          "attachment" : [ ]
+        },
+        "header" : {
+          "to" : [ ],
+          "from" : "asamir@4242.com",
+          "subject" : "",
+          "priority" : "NORMAL",
+          "date" : "Wed Feb 07 12:00:07 EET 2024"
+        }
+      },
+      "0e427b33-fc20-48d5-8c70-929c384ccc0d" : {
+        "id" : "0e427b33-fc20-48d5-8c70-929c384ccc0d",
+        "body" : {
+          "text" : "",
+          "attachment" : [ ]
+        },
+        "header" : {
+          "to" : [ ],
+          "from" : "asamir@4242.com",
+          "subject" : "",
+          "priority" : "NORMAL",
+          "date" : "Wed Feb 07 11:59:56 EET 2024"
+        }
+      },
+      "e6436304-3d88-4814-9ff7-3a58bbe1d020" : {
+        "id" : "e6436304-3d88-4814-9ff7-3a58bbe1d020",
+        "body" : {
+          "text" : "",
+          "attachment" : [ ]
+        },
+        "header" : {
+          "to" : [ ],
+          "from" : "asamir@4242.com",
+          "subject" : "",
+          "priority" : "NORMAL",
+          "date" : "Wed Feb 07 12:00:19 EET 2024"
+        }
+      },
+      "8a504bfe-50f9-45cd-943f-c5fcf2a452a2" : {
+        "id" : "8a504bfe-50f9-45cd-943f-c5fcf2a452a2",
+        "body" : {
+          "text" : "",
+          "attachment" : [ ]
+        },
+        "header" : {
+          "to" : [ ],
+          "from" : "asamir@4242.com",
+          "subject" : "",
+          "priority" : "NORMAL",
+          "date" : "Wed Feb 07 11:59:05 EET 2024"
+        }
+      },
+      "1d479d96-1382-4fbd-a0e5-be51565236fe" : {
+        "id" : "1d479d96-1382-4fbd-a0e5-be51565236fe",
+        "body" : {
+          "text" : "",
+          "attachment" : [ ]
+        },
+        "header" : {
+          "to" : [ ],
+          "from" : "asamir@4242.com",
+          "subject" : "",
+          "priority" : "NORMAL",
+          "date" : "Wed Feb 07 12:00:36 EET 2024"
+        }
+      },
+      "682bc869-1a1a-4d16-a061-cfc14d65b323" : {
+        "id" : "682bc869-1a1a-4d16-a061-cfc14d65b323",
+        "body" : {
+          "text" : "",
+          "attachment" : [ ]
+        },
+        "header" : {
+          "to" : [ ],
+          "from" : "asamir@4242.com",
+          "subject" : "",
+          "priority" : "NORMAL",
+          "date" : "Wed Feb 07 12:00:03 EET 2024"
+        }
+      },
+      "1d0abe0c-275e-40e6-8373-e290aeae9ea2" : {
+        "id" : "1d0abe0c-275e-40e6-8373-e290aeae9ea2",
+        "body" : {
+          "text" : "",
+          "attachment" : [ ]
+        },
+        "header" : {
+          "to" : [ ],
+          "from" : "asamir@4242.com",
+          "subject" : "",
+          "priority" : "NORMAL",
+          "date" : "Wed Feb 07 12:00:11 EET 2024"
+        }
+      },
+      "0f6d4933-4072-4d54-9e95-c382f5de29bb" : {
+        "id" : "0f6d4933-4072-4d54-9e95-c382f5de29bb",
+        "body" : {
+          "text" : "",
+          "attachment" : [ ]
+        },
+        "header" : {
+          "to" : [ ],
+          "from" : "asamir@4242.com",
+          "subject" : "",
+          "priority" : "NORMAL",
+          "date" : "Wed Feb 07 12:00:16 EET 2024"
+        }
+      }
+    }
+  },
+  "sentfolders" : {
+    "name" : "sentFolders",
+    "emails" : { }
+  },
+  "userFolders" : { },
+  "contacts" : { }
+} ]
