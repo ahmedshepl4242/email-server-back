@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 @RestController
 @RequestMapping("/contacts")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin
 public class ContactController {
 
     private final ContactService contactService;
@@ -50,26 +50,10 @@ public class ContactController {
 
     @PostMapping("/sortContacts")
     public ArrayList<Contact> sortContacts(@RequestParam String id) {
-
         return contactService.sort(id);
-
-//        ArrayList<Contact> arr = new ArrayList<>();
-//
-//        arr.add(new Contact("sd", "asas"));
-//        arr.add(new Contact("sdassaas", "fddfs"));
-//        arr.add(new Contact("sasasa", "sa"));
-//        arr.add(new Contact("assa", "asas"));
-
-//        return arr;
-
     }
 
-//    @GetMapping("/getContacts")
-//    public String getContacts() {
-//        List<Contact> contacts = contactService.getContacts();
-//        return "contacts obtained";
-//
-//    }
+
 
     @GetMapping("")
     public String get() {

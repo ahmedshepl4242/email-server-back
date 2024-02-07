@@ -10,7 +10,7 @@ import com.example.emailserver.Service.Folders.Mail.Mail;
 
 import java.util.ArrayList;
 
-@CrossOrigin("http://localhost:5173")
+@CrossOrigin
 @RestController
 @RequestMapping("/sort")
 public class SortController {

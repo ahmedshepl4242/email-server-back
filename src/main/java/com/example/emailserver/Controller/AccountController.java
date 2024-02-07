@@ -6,7 +6,7 @@ import com.example.emailserver.Service.Services.AccountService;
 import com.example.emailserver.Service.cache.CacheInterface;
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin("http://localhost:5173")
+@CrossOrigin
 @RestController
 @RequestMapping("/account")
 public class AccountController {

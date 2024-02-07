@@ -4,7 +4,7 @@ import com.example.emailserver.Service.DAO.Account;
 import com.example.emailserver.Service.cache.CacheInterface;
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin("http://localhost:5173")
+@CrossOrigin
 @RestController
 @RequestMapping("/sign")
 public class sign {

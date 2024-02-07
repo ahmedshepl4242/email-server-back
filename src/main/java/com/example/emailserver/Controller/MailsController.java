@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-@CrossOrigin("http://localhost:5173")
+@CrossOrigin
 @RestController
 @RequestMapping("/mails")
 public class MailsController

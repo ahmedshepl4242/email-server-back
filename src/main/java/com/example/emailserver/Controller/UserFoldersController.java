@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 
-@CrossOrigin("http://localhost:5173")
+@CrossOrigin
 @RestController
 @RequestMapping("/userfolders")
 public class UserFoldersController
